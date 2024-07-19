@@ -2,6 +2,9 @@
 
 1.0 Initial commit
 
+*Feature to be added*
+OCR
+
 **How it works**
 1. Create a dummy file with '.pdf' extension: eg. 'targetPDF.PDF'
 2. Open Terminal
