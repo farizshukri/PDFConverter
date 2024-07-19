@@ -2,7 +2,7 @@
 
 1.0 Initial commit
 
-*Feature to be added*
+*Feature to be added*<br>
 OCR
 
 **How it works**
