@@ -12,9 +12,9 @@ OCR
 2. Open Terminal
 3. Input 'python image_to_pdf.py <image_path> <pdf_path>'
 4. Drop the image file followed by the dummy file in Terminal
-<br>
-*PDF to Word converter*
+
+*PDF to Word converter*<br>
 1. Create a target dummy file with '.docx' extension
-2. On Terminal, run 'python PDF-to-Word-Converter.py'
-3. Input PDF file by drag-and-drop
-4. Input the target dummy file
+2.  On Terminal, run 'python PDF-to-Word-Converter.py'
+3.  Input PDF file by drag-and-drop
+4.  Input the target dummy file
